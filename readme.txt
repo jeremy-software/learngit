@@ -4,3 +4,4 @@ sfsfsf
 test modify
 test checkout
 test branch
+test merge fail
